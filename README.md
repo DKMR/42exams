@@ -7,7 +7,7 @@ This repo contains known exercises that are used during weekly exams in C throug
 There are 6 difficulty levels, from level 0 (easiest) to level 5 (hardest). Each exam is a random mix of several of these exercises combined.
 
 ### What's been modified?
-Subject files with languages other than English have been removed, file names have been renamed from *subject.en.txt* to *subject.txt*. Removed extra examples where the contents match the *subject.txt* file.
+Subject files with languages other than English have been removed, file names have been changed from *subject.en.txt* to *subject.txt*. Removed extra examples where the contents match the *subject.txt* file.
 
 ### Where are the solutions?
 This repo is meant to be used as a clean slate for practice, it does not contain solutions or any additional files other than the bare minimum (subject + provided headers).
